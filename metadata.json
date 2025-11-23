@@ -1,0 +1,9 @@
+{
+  "name": "Nexus CRM-HRM Suite",
+  "description": "A unified, modern hybrid application for CRM, HRM, and Project Management with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
